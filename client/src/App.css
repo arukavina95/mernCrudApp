@@ -1,0 +1,47 @@
+.add_btn{
+    text-align: right;
+}
+
+.container{
+    overflow: auto;
+}
+
+.left_view h3{
+    font-size: 21px;
+}
+
+.left_view p{
+    font-weight: 600;
+}
+
+.left_view span{
+    font-weight: 400;
+}
+
+#btn{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #190572;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    }
+
+#btn:hover{
+        background-color: #2123bb;
+         }
+
+ #btn:active {
+         background-color: #3e8e41;
+         box-shadow: 0 5px #666;
+        transform: translateY(4px);
+        }
+#result{
+       position: absolute;
+       margin-left: 180px;
+       margin-top: -37px;
+        } 
